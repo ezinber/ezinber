@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mikhail
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in all things related to Web Development
 - 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**, **React** and **Node.js** 
 - 💞️ I’m looking to collaborate on interesting and useful projects 
