@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning **HTML**, **CSS**, **JavaScript**, **React** and **Node.js** 
 - 💞️ I’m looking to collaborate on interesting and useful projects 
   that use modern web development technologies
-- 📫 You can reach me in tg: **@ezinber** and by email: **ezinber@gmail.com**
+- 📫 You can reach me in tg: **@ezinber** and by email: **ezinber@duck.com**
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ezinber&theme=react&show_icons=true&hide_border=true&hide=stars,issues)&emsp;&emsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezinber&theme=react&layout=compact&hide_border=true&card_width=445)](https://github.com/ezinber/github-readme-stats)
